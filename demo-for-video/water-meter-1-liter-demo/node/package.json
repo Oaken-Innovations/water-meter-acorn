@@ -1,0 +1,27 @@
+{
+  "name": "project-oaken",
+  "version": "1.0.0",
+  "description": "Project Oaken - Smart Cities/IIot Gateway & Hardware Oracle Prototype by Ethembedded.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Project-Oaken/"
+  },
+  "author": "Project Oaken Team",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Project-Oaken/Project-Oaken/issues"
+  },
+  "homepage": "https://github.com/Project-Oaken/Project-Oaken#readme",
+  "dependencies": {
+    "es6-promise": "^4.0.5",
+    "fs": "0.0.1-security",
+    "ipfs": "^0.20.3",
+    "ipfs-api": "^12.0.3",
+    "web3": "^0.17.0-beta"
+  }
+}
