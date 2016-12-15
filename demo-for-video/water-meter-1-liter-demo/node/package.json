@@ -14,9 +14,9 @@
   "author": "Project Oaken Team",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/Project-Oaken/Project-Oaken/issues"
+    "url": "https://github.com/Project-Oaken/water-meter-acorn/issues"
   },
-  "homepage": "https://github.com/Project-Oaken/Project-Oaken#readme",
+  "homepage": "https://github.com/Project-Oaken/water-meter-acorn",
   "dependencies": {
     "es6-promise": "^4.0.5",
     "fs": "0.0.1-security",
